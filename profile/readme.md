@@ -30,7 +30,7 @@ Overall, KLIN seeks to revolutionize the laundry industry in Indonesia by addres
 | `M180BSX0946`   | Mutiara Afifah                    | Machine Learning    |
 | `M193BSY0446`   | Fiqri Maulana Syach               | Machine Learning    |
 | `M298BSY1784`   | Ketut Yudi Witanarya Desimahendra | Machine Learning    |
-| `C014BSY3908`   | Mananda Davar Sinaga              | Cloud Computing     |
+| `C014BSY3908`   | **[Mananda Davar Sinaga](https://github.com/smart-rinse/api-smartrinse)**              | Cloud Computing     |
 | `C014BSY4145`   | I Nyoman Yodya Mahesa Sastra      | Cloud Computing     |
 | `A014BSY2809`   | Made Jiyestha Arturito            | Mobile Development  |
 | `A528BSY2074`   | Heri Sanjaya Ginting              | Mobile Development  |
