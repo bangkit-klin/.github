@@ -1,6 +1,6 @@
+<img src="../assets/mockup_app.png">
 
 # Klin
-
 Based on the provided information, "KLIN" stands for "Kita Laundryin," which translates to "We Do Laundry" in English. KLIN is the proposed laundry service application that aims to leverage machine learning technology to address the challenges faced by individuals in Indonesia when it comes to finding convenient, cost-effective, and trustworthy laundry services.
 
 The key features and goals of the KLIN project include:
