@@ -22,7 +22,7 @@ Overall, KLIN seeks to revolutionize the laundry industry in Indonesia by addres
 
 # Team Members
 #
-
+Bangkit 2023 Capstone Team CH2-PS058
 
 
 | ID              | Name                              | Learning Path       |
