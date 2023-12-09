@@ -7,6 +7,18 @@ Overall, KLIN seeks to revolutionize the laundry industry in Indonesia by addres
 ###
 
 ---
+## Key Features
+- Camera Classification Laundry
+- Order Laundry
+
+
+## Additional Features
+- Authentication
+- Login and Register User
+- Login and Register Merchant
+- Progress Laundry
+
+---
 
 # Team Members
 Bangkit 2023 Capstone Team CH2-PS058
