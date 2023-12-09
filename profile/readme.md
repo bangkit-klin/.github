@@ -24,13 +24,12 @@ Overall, KLIN seeks to revolutionize the laundry industry in Indonesia by addres
 #
 Bangkit 2023 Capstone Team CH2-PS058
 
-
-| ID              | Name                              | Learning Path       |
-|:----------------|:----------------------------------|:--------------------|
-| `M180BSX0946`   | **[Mutiara Afifah](https://github.com/Mautiarap)**                    | Machine Learning    |
-| `M193BSY0446`   | **[Fiqri Maulana Syach](https://github.com/dibfira)**               | Machine Learning    |
+| ID              | Name                                                                    | Learning Path       |
+|:----------------|:------------------------------------------------------------------------|:--------------------|
+| `M180BSX0946`   | **[Mutiara Afifah](https://github.com/Mautiarap)**                      | Machine Learning    |
+| `M193BSY0446`   | **[Fiqri Maulana Syach](https://github.com/dibfira)**                   | Machine Learning    |
 | `M298BSY1784`   | **[Ketut Yudi Witanarya Desimahendra](https://github.com/yudiwtnrya)**  | Machine Learning    |
-| `C014BSY3908`   | **[Mananda Davar Sinaga](https://github.com/Mndavr)**              | Cloud Computing     |
+| `C014BSY3908`   | **[Mananda Davar Sinaga](https://github.com/Mndavr)**                   | Cloud Computing     |
 | `C014BSY4145`   | **[I Nyoman Yodya Mahesa Sastra](https://github.com/yodyamahesa)**      | Cloud Computing     |
 | `A014BSY2809`   | **[Made Jiyestha Arturito](https://github.com/mdarturito)**             | Mobile Development  |
-| `A528BSY2074`   | **[Heri Sanjaya Ginting](https://github.com/gintingherisanjaya)**                 | Mobile Development  |
+| `A528BSY2074`   | **[Heri Sanjaya Ginting](https://github.com/gintingherisanjaya)**       | Mobile Development  |
