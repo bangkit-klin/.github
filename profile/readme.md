@@ -34,3 +34,14 @@ Bangkit 2023 Capstone Team CH2-PS058
 | `C014BSY4145`   | **[I Nyoman Yodya Mahesa Sastra](https://github.com/yodyamahesa)**      | Cloud Computing     |
 | `A014BSY2809`   | **[Made Jiyestha Arturito](https://github.com/mdarturito)**             | Mobile Development  |
 | `A528BSY2074`   | **[Heri Sanjaya Ginting](https://github.com/gintingherisanjaya)**       | Mobile Development  |
+
+
+---
+# Tech Stack
+
+| path               | Tech                                                                                                             | Link Repository     |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------|:--------------------|
+| Machine Learning   | Retrofit, Android SDk, Android Support Library, CameraX, Hdodenhof's CircleImageView, Glide.                     | Link                |
+| Cloud Computing    | Node, NPM, JavaScript, Cloud Run, Express JS, Firebase, Tensorflow JS, Flask, Python, Postman.                   | Link                |
+| Mobile Development | *Jupyter Notebook, Tensorflow, Tensorflow JS, NumPy, Matplotlib, Pandas, OpenCV, Skimage, sciPy,                 | Link                |
+
