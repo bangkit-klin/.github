@@ -1,21 +1,7 @@
 <img src="https://github.com/bangkit-klin/.github/blob/main/assets/mockup_app.png">
 
 # Klin
-Based on the provided information, "KLIN" stands for "Kita Laundryin," which translates to "We Do Laundry" in English. KLIN is the proposed laundry service application that aims to leverage machine learning technology to address the challenges faced by individuals in Indonesia when it comes to finding convenient, cost-effective, and trustworthy laundry services.
-
-The key features and goals of the KLIN project include:
-
-Efficiency: The use of machine learning technology is intended to enhance the efficiency of laundry services, making it quicker and more convenient for users.
-
-Affordability: The project aims to provide cost-effective solutions, making laundry services more accessible to a broader demographic.
-
-Trustworthiness: By incorporating machine learning, KLIN intends to improve transparency and service quality, addressing the trust-related concerns users may have when choosing laundry services.
-
-Accessibility: The application seeks to make laundry services more accessible to busy individuals, including students and homemakers, who may struggle to find time for this chore.
-
-Economic Opportunities: The project also aims to create economic opportunities for skilled laundry workers by providing a platform that connects them with potential customers.
-
-The idea for the project emerged from the team's observation of the challenges people face in the post-COVID-19 era, where cleanliness is of heightened importance. The goal is to leverage technology to make laundry services more adaptable to the fast-paced and convenience-driven lifestyle of the community.
+KLIN (Kita Laundryin) is an innovative laundry service application developed by Team CH2-PS058 as part of their capstone project. With a focus on SME empowerment within the laundry industry in Indonesia, KLIN aims to simplify the process of finding reliable and cost-effective laundry services. Leveraging machine learning technology, the application allows users to easily detect and categorize various laundry objects such as clothes, bags, and shoes. The project addresses the challenges faced by busy individuals and students in managing their laundry needs. Through a well-structured project plan, KLIN integrates cloud computing for efficient backend operations and employs mobile development tools to create a user-friendly interface. The team envisions expanding the application's capabilities post-incubation, connecting with transaction services and broadening market potential beyond conventional laundry to include self-service options, enhancing the overall laundry experience for users in Indonesia.
 
 Overall, KLIN seeks to revolutionize the laundry industry in Indonesia by addressing common challenges through the integration of machine learning, ultimately providing a comprehensive solution for both customers and laundry service providers.
 ###
