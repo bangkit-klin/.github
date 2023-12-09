@@ -20,8 +20,9 @@ The idea for the project emerged from the team's observation of the challenges p
 Overall, KLIN seeks to revolutionize the laundry industry in Indonesia by addressing common challenges through the integration of machine learning, ultimately providing a comprehensive solution for both customers and laundry service providers.
 ###
 
+---
+
 # Team Members
-#
 Bangkit 2023 Capstone Team CH2-PS058
 
 | ID              | Name                                                                    | Learning Path       |
