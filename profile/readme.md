@@ -39,8 +39,8 @@ Bangkit 2023 Capstone Team CH2-PS058
 
 | Learning Path      | Tech                                                                                                             | Link Repository                                                       |
 |:-------------------|:-----------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
-| Machine Learning   | Retrofit, Android SDk, Android Support Library, CameraX, Hdodenhof's CircleImageView, Glide.                     | **[LINK](https://github.com/bangkit-klin/private-cc)**                |
-| Cloud Computing    | Node, NPM, JavaScript, Cloud Run, Express JS, Firebase, Tensorflow JS, Flask, Python, Postman.                   | **[LINK](https://github.com/bangkit-klin/private-cc)**                |
-| Mobile Development | *Jupyter Notebook, Tensorflow, Tensorflow JS, NumPy, Matplotlib, Pandas, OpenCV, Skimage, sciPy,                 | **[LINK](https://github.com/bangkit-klin/private-cc)**                |
+| Machine Learning   |   Jupyter Notebook, Tensorflow, Tensorflow JS, NumPy, Matplotlib, Pandas, OpenCV                 | **[LINK](https://github.com/bangkit-klin/private-cc)**                |
+| Cloud Computing    | Node, NPM, JavaScript, Cloud Run, Firebase, Tensorflow JS, Flask, Python, Postman.                   | **[LINK](https://github.com/bangkit-klin/private-cc)**                |
+| Mobile Development | Retrofit, Android SDk, Android Support Library, CameraX,  J                 | **[LINK](https://github.com/bangkit-klin/private-cc)**                |
 
 ---
