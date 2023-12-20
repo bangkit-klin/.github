@@ -44,6 +44,6 @@ Bangkit 2023 Capstone Team CH2-PS058
 | Mobile Development | Retrofit, Android SDk, Android Support Library, CameraX                                                          | **[LINK](https://github.com/bangkit-klin/private-cc)**                |
 
 ---
-# Tech Stack
+# Website
 
 **[WEBSITE KLIN](https://bangkit-klin.github.io)**
